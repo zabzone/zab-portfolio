@@ -1,7 +1,7 @@
 # Hey! My names [Zab Rivera, and I'm an Enterprise Engineer.](https://www.linkedin.com/in/zabdielrivera/)
 Thank you for visiting my Github Portfolio Page 🏄‍♂️☀️
 
-![Zab](https://github.com/zabzone/zab-portfolio/blob/main/zab_profile_pic%20(Custom)%20(1).jpg?raw=true)
+![Zab](https://github.com/zabzone/zab-portfolio/blob/main/zab-profile-pic.jpg?raw=true)
 
 ### Articles Published
 - [Containerization](https://publish.obsidian.md/zabbie/Blog/Containerization)
