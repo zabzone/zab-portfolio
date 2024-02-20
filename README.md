@@ -1,6 +1,8 @@
 # Hey! My names [Zab Rivera, and I'm an Enterprise Engineer.](https://www.linkedin.com/in/zabdielrivera/)
 Thank you for visiting my Github Portfolio Page 🏄‍♂️☀️
 
+![Zab](https://github.com/zabzone/zab-portfolio/blob/main/profilepic1.jpg?raw=true)
+
 ### Articles Published
 - [Containerization](https://publish.obsidian.md/zabbie/Blog/Containerization)
 - [I had to fix ACL's across 180 servers to address Replication issues stemming from our UEM - here's what I learned](https://publish.obsidian.md/zabbie/Blog/I+had+to+fix+ACL's+across+180+servers+to+address+Replication+issues+stemming+from+our+UEM+-+here's+what+I+learned)
