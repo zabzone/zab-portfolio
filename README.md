@@ -1,5 +1,5 @@
 # Hey! My names [Zab Rivera, and I'm an Enterprise Engineer.](https://www.linkedin.com/in/zabdielrivera/)
-Thank you for visiting my Github Portfolio Page.
+Thank you for visiting my Github Portfolio Page 🏄‍♂️☀️
 
 ### Articles Published
 - [Containerization](https://publish.obsidian.md/zabbie/Blog/Containerization)
@@ -9,6 +9,7 @@ Thank you for visiting my Github Portfolio Page.
 ### Powershell Projects
 
 ### Diagrams
+- [Intune Configurations📲](https://github.com/zabzone/Intune-Configurations)
+   - [Intune – Apple Device Enrollment – User Without Affinity Enrollment](https://github.com/zabzone/Intune-Configurations/blob/main/Intune%20%E2%80%93%20Apple%20Device%20Enrollment%20%E2%80%93%20User%20Without%20Affinity%20Enrollment/Diagram%20-%20Intune%20%E2%80%93%20Apple%20Device%20Enrollment%20%E2%80%93%20User%20Without%20Affinity%20Enrollment.png)
 
 ### Python Practice
-
