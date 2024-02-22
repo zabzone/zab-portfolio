@@ -9,9 +9,8 @@ Thank you for visiting my Github Portfolio Page 🏄‍♂️☀️
 - [The State of Gaming on MacOS (2023)](https://publish.obsidian.md/zabbie/Blog/The+State+of+Gaming+on+MacOS+(2023))
 
 ### Powershell Projects
+- [Server Storage Report - Automation🛠️ & Data📈](https://github.com/zabzone/Server-Storage-Report)
 
 ### Diagrams
 - [Intune Configurations📲](https://github.com/zabzone/Intune-Configurations)
    - [Intune – Apple Device Enrollment – User Without Affinity Enrollment](https://github.com/zabzone/Intune-Configurations/blob/main/Intune%20%E2%80%93%20Apple%20Device%20Enrollment%20%E2%80%93%20User%20Without%20Affinity%20Enrollment/Diagram%20-%20Intune%20%E2%80%93%20Apple%20Device%20Enrollment%20%E2%80%93%20User%20Without%20Affinity%20Enrollment.png)
-
-### Python Practice
